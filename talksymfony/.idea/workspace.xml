@@ -26,31 +26,30 @@
       <file leaf-file-name="getUtente.html.twig" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/TS/TalkBundle/Resources/views/First/getUtente.html.twig">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="20" selection-start="226" selection-end="226" vertical-scroll-proportion="-6.84" vertical-offset="0" max-vertical-offset="323">
+            <state line="9" column="20" selection-start="226" selection-end="226" vertical-scroll-proportion="0.0" vertical-offset="171" max-vertical-offset="323">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="getUtenti.html.twig" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="getUtenti.html.twig" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/TS/TalkBundle/Resources/views/First/getUtenti.html.twig">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="29" selection-start="742" selection-end="742" vertical-scroll-proportion="1.1078718" vertical-offset="114" max-vertical-offset="1615">
+            <state line="26" column="29" selection-start="742" selection-end="742" vertical-scroll-proportion="-0.0" vertical-offset="494" max-vertical-offset="1615">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FirstController.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="FirstController.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/TS/TalkBundle/Controller/FirstController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="92" column="0" selection-start="2521" selection-end="2521" vertical-scroll-proportion="-6.4" vertical-offset="1588" max-vertical-offset="3439">
+            <state line="84" column="61" selection-start="2398" selection-end="2398" vertical-scroll-proportion="0.45244956" vertical-offset="845" max-vertical-offset="3040">
               <folding>
-                <element signature="e#6#454#0" expanded="true" />
-                <element signature="e#492#549#0" expanded="true" />
+                <element signature="e#1560#1574#0" expanded="true" />
                 <element signature="e#2173#2194#1" expanded="true" />
-                <element signature="e#2676#2697#1" expanded="true" />
-                <element signature="e#3887#3908#1" expanded="true" />
+                <element signature="e#2788#2809#1" expanded="true" />
+                <element signature="e#3999#4020#1" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -59,7 +58,7 @@
       <file leaf-file-name="caricamento_ajax.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/TS/TalkBundle/Resources/public/js/caricamento_ajax.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="34" selection-start="814" selection-end="814" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1007">
+            <state line="26" column="34" selection-start="814" selection-end="814" vertical-scroll-proportion="0.0" vertical-offset="494" max-vertical-offset="1007">
               <folding />
             </state>
           </provider>
@@ -68,11 +67,8 @@
       <file leaf-file-name="base.html.twig" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/Resources/views/base.html.twig">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="0" selection-start="189" selection-end="189" vertical-scroll-proportion="-3.8" vertical-offset="0" max-vertical-offset="494">
-              <folding>
-                <element signature="e#491#514#0" expanded="true" />
-                <element signature="e#539#561#0" expanded="true" />
-              </folding>
+            <state line="5" column="0" selection-start="189" selection-end="189" vertical-scroll-proportion="0.0" vertical-offset="95" max-vertical-offset="494">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -117,12 +113,12 @@
         <option value="$PROJECT_DIR$/app/config/routing.yml" />
         <option value="$PROJECT_DIR$/app/Resources/views/javascript.html.twig" />
         <option value="$PROJECT_DIR$/src/TS/TalkBundle/Resources/views/First/cancellazione_utente.html.twig" />
-        <option value="$PROJECT_DIR$/src/TS/TalkBundle/Controller/FirstController.php" />
         <option value="$PROJECT_DIR$/src/TS/TalkBundle/Resources/views/First/more_users.html.twig" />
         <option value="$PROJECT_DIR$/src/TS/TalkBundle/Resources/views/First/Welcome.html.twig" />
         <option value="$PROJECT_DIR$/app/Resources/views/base.html.twig" />
         <option value="$PROJECT_DIR$/src/TS/TalkBundle/Resources/public/js/caricamento_ajax.js" />
         <option value="$PROJECT_DIR$/src/TS/TalkBundle/Resources/views/First/getUtenti.html.twig" />
+        <option value="$PROJECT_DIR$/src/TS/TalkBundle/Controller/FirstController.php" />
       </list>
     </option>
   </component>
@@ -134,7 +130,7 @@
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
     <option name="y" value="22" />
-    <option name="width" value="1680" />
+    <option name="width" value="1440" />
     <option name="height" value="874" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -374,36 +370,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="talksymfony" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="talksymfony" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TS" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TalkBundle" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="config" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -601,12 +567,11 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1680" height="874" extended-state="6" />
+    <frame x="0" y="22" width="1440" height="874" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32819384" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Framework" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Symfony2" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297568" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -616,10 +581,11 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22954823" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23247497" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32819384" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -643,9 +609,9 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22954823" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -666,7 +632,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="php">
           <url>file://$PROJECT_DIR$/src/TS/TalkBundle/Controller/FirstController.php</url>
-          <line>92</line>
+          <line>94</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
@@ -674,54 +640,69 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/config/config_dev.yml">
+    <entry file="file://$PROJECT_DIR$/src/TS/TalkBundle/Resources/views/First/getUtente.html.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="25" selection-start="812" selection-end="812" vertical-scroll-proportion="0.0" vertical-offset="608" max-vertical-offset="798">
+        <state line="9" column="20" selection-start="226" selection-end="226" vertical-scroll-proportion="0.0" vertical-offset="171" max-vertical-offset="323">
           <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TS/TalkBundle/Resources/views/First/getUtenti.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="29" selection-start="742" selection-end="742" vertical-scroll-proportion="0.0" vertical-offset="494" max-vertical-offset="1615">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TS/TalkBundle/Controller/FirstController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="92" column="0" selection-start="2521" selection-end="2521" vertical-scroll-proportion="0.0" vertical-offset="1748" max-vertical-offset="3439">
+          <folding>
+            <element signature="e#1560#1574#0" expanded="true" />
+            <element signature="e#2173#2194#1" expanded="true" />
+            <element signature="e#2788#2809#1" expanded="true" />
+            <element signature="e#3999#4020#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TS/TalkBundle/Resources/public/js/caricamento_ajax.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="34" selection-start="814" selection-end="814" vertical-scroll-proportion="0.0" vertical-offset="494" max-vertical-offset="1007">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/base.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="0" selection-start="189" selection-end="189" vertical-scroll-proportion="0.0" vertical-offset="95" max-vertical-offset="494">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/config_dev.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="25" selection-start="812" selection-end="812" vertical-scroll-proportion="0.0" vertical-offset="608" max-vertical-offset="798" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/config/config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="14" selection-start="841" selection-end="841" vertical-scroll-proportion="0.0" vertical-offset="589" max-vertical-offset="1672">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/config/parameters.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="0" selection-start="0" selection-end="540" vertical-scroll-proportion="0.0" vertical-offset="288" max-vertical-offset="384">
-          <folding />
-        </state>
+        <state line="31" column="14" selection-start="841" selection-end="841" vertical-scroll-proportion="0.0" vertical-offset="589" max-vertical-offset="1672" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/config/config_dev.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="25" selection-start="812" selection-end="812" vertical-scroll-proportion="0.0" vertical-offset="512" max-vertical-offset="672">
-          <folding />
-        </state>
+        <state line="32" column="25" selection-start="812" selection-end="812" vertical-scroll-proportion="0.0" vertical-offset="512" max-vertical-offset="672" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/config/config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="14" selection-start="841" selection-end="841" vertical-scroll-proportion="0.0" vertical-offset="496" max-vertical-offset="1408">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/config/parameters.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="0" selection-start="597" selection-end="597" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="400" />
+        <state line="31" column="14" selection-start="841" selection-end="841" vertical-scroll-proportion="0.0" vertical-offset="496" max-vertical-offset="1408" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/config/routing_dev.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="14" column="0" selection-start="370" selection-end="370" vertical-scroll-proportion="0.0" vertical-offset="224" max-vertical-offset="320" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/config/parameters.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="0" selection-start="597" selection-end="597" vertical-scroll-proportion="0.0" vertical-offset="361" max-vertical-offset="475" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/config/routing_dev.yml">
@@ -752,14 +733,6 @@
     <entry file="file://$PROJECT_DIR$/app/config/routing_dev.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="14" column="0" selection-start="370" selection-end="370" vertical-scroll-proportion="0.25396827" vertical-offset="0" max-vertical-offset="882" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/bootstrap.php.cache">
-      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="48944" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/app.php">
@@ -807,11 +780,6 @@
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="882" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/symfony/symfony/src/Symfony/Bundle/FrameworkBundle/Controller/Controller.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="6" selection-start="1093" selection-end="1093" vertical-scroll-proportion="0.35264483" vertical-offset="100" max-vertical-offset="3936" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/Resources/views/stylesheets.html.twig">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="859" />
@@ -824,16 +792,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/TS/TalkBundle/Resources/public/js/secondo.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="3" selection-start="174" selection-end="174" vertical-scroll-proportion="0.1292517" vertical-offset="0" max-vertical-offset="882">
-          <folding />
-        </state>
+        <state line="6" column="3" selection-start="174" selection-end="174" vertical-scroll-proportion="0.1292517" vertical-offset="0" max-vertical-offset="882" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/TS/TalkBundle/Resources/public/js/first.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="3" selection-start="174" selection-end="174" vertical-scroll-proportion="0.1292517" vertical-offset="0" max-vertical-offset="882">
-          <folding />
-        </state>
+        <state line="6" column="3" selection-start="174" selection-end="174" vertical-scroll-proportion="0.1292517" vertical-offset="0" max-vertical-offset="882" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/TS/TalkBundle/Entity/Utenti.php">
@@ -845,78 +809,42 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/composer.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="29" selection-start="851" selection-end="851" vertical-scroll-proportion="-17.48" vertical-offset="19" max-vertical-offset="1121">
-          <folding />
-        </state>
+        <state line="24" column="29" selection-start="851" selection-end="851" vertical-scroll-proportion="-17.48" vertical-offset="19" max-vertical-offset="1121" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/app_dev.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="36" selection-start="928" selection-end="928" vertical-scroll-proportion="-15.96" vertical-offset="0" max-vertical-offset="665">
-          <folding>
-            <element signature="e#7#52#0" expanded="false" />
-          </folding>
-        </state>
+        <state line="22" column="36" selection-start="928" selection-end="928" vertical-scroll-proportion="-15.96" vertical-offset="0" max-vertical-offset="665" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/config/routing.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="14" selection-start="404" selection-end="404" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="380">
-          <folding />
-        </state>
+        <state line="14" column="14" selection-start="404" selection-end="404" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="380" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Resources/views/javascript.html.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="3" selection-start="188" selection-end="188" vertical-scroll-proportion="-3.8" vertical-offset="0" max-vertical-offset="437">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/bundles/tstalk/js/secondo.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="24" selection-start="230" selection-end="230" vertical-scroll-proportion="0.36626506" vertical-offset="0" max-vertical-offset="415">
-          <folding />
-        </state>
+        <state line="5" column="3" selection-start="188" selection-end="188" vertical-scroll-proportion="-3.8" vertical-offset="0" max-vertical-offset="437" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/AppKernel.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="57" selection-start="831" selection-end="831" vertical-scroll-proportion="-13.68" vertical-offset="0" max-vertical-offset="779">
-          <folding />
-        </state>
+        <state line="19" column="57" selection-start="831" selection-end="831" vertical-scroll-proportion="-13.68" vertical-offset="0" max-vertical-offset="779" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/TS/TalkBundle/Resources/views/First/cancellazione_utente.html.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="55" selection-start="307" selection-end="307" vertical-scroll-proportion="0.22222222" vertical-offset="0" max-vertical-offset="855">
-          <folding>
-            <element signature="e#270#277#0" expanded="false" />
-          </folding>
-        </state>
+        <state line="10" column="55" selection-start="307" selection-end="307" vertical-scroll-proportion="0.22222222" vertical-offset="0" max-vertical-offset="855" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/TS/TalkBundle/Resources/views/First/more_users.html.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="32" selection-start="132" selection-end="132" vertical-scroll-proportion="0.08888889" vertical-offset="0" max-vertical-offset="855">
-          <folding>
-            <element signature="e#357#367#0" expanded="false" />
-            <element signature="e#584#599#0" expanded="false" />
-            <element signature="e#704#714#0" expanded="false" />
-            <element signature="e#923#938#0" expanded="false" />
-          </folding>
-        </state>
+        <state line="4" column="32" selection-start="132" selection-end="132" vertical-scroll-proportion="0.08888889" vertical-offset="0" max-vertical-offset="855" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/TS/TalkBundle/Resources/views/First/Welcome.html.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="11" selection-start="346" selection-end="346" vertical-scroll-proportion="0.31111112" vertical-offset="0" max-vertical-offset="855">
-          <folding>
-            <element signature="e#217#233#0" expanded="true" />
-            <element signature="e#368#375#0" expanded="true" />
-            <element signature="e#418#428#0" expanded="true" />
-          </folding>
-        </state>
+        <state line="14" column="11" selection-start="346" selection-end="346" vertical-scroll-proportion="0.31111112" vertical-offset="0" max-vertical-offset="855" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/TS/TalkBundle/Form/UtentiType.php">
@@ -931,57 +859,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/config/parameters.yml.dist">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="23" selection-start="386" selection-end="386" vertical-scroll-proportion="0.30227274" vertical-offset="0" max-vertical-offset="880">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/config/parameters.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="30" selection-start="184" selection-end="184" vertical-scroll-proportion="0.10795455" vertical-offset="0" max-vertical-offset="880">
-          <folding />
-        </state>
+        <state line="14" column="23" selection-start="386" selection-end="386" vertical-scroll-proportion="0.30227274" vertical-offset="0" max-vertical-offset="880" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/config/config_test.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="880">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="880" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/config/config_prod.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="880">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="880" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/config/config_dev.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="25" selection-start="812" selection-end="812" vertical-scroll-proportion="0.6909091" vertical-offset="0" max-vertical-offset="880">
-          <folding />
-        </state>
+        <state line="32" column="25" selection-start="812" selection-end="812" vertical-scroll-proportion="0.6909091" vertical-offset="0" max-vertical-offset="880" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/config/config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="14" selection-start="841" selection-end="841" vertical-scroll-proportion="0.6782007" vertical-offset="1" max-vertical-offset="1672">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TS/TalkBundle/Controller/FirstController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="92" column="0" selection-start="2521" selection-end="2521" vertical-scroll-proportion="-6.4" vertical-offset="1588" max-vertical-offset="3439">
-          <folding>
-            <element signature="e#6#454#0" expanded="true" />
-            <element signature="e#492#549#0" expanded="true" />
-            <element signature="e#2173#2194#1" expanded="true" />
-            <element signature="e#2676#2697#1" expanded="true" />
-            <element signature="e#3887#3908#1" expanded="true" />
-          </folding>
-        </state>
+        <state line="31" column="14" selection-start="841" selection-end="841" vertical-scroll-proportion="0.6782007" vertical-offset="1" max-vertical-offset="1672" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/TS/TalkBundle/Resources/public/js/caricamento_ajax.js">
@@ -993,25 +891,34 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/TS/TalkBundle/Resources/views/First/getUtente.html.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="20" selection-start="226" selection-end="226" vertical-scroll-proportion="-6.84" vertical-offset="0" max-vertical-offset="323">
+        <state line="9" column="20" selection-start="226" selection-end="226" vertical-scroll-proportion="0.0" vertical-offset="171" max-vertical-offset="323">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Resources/views/base.html.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="0" selection-start="189" selection-end="189" vertical-scroll-proportion="-3.8" vertical-offset="0" max-vertical-offset="494">
-          <folding>
-            <element signature="e#491#514#0" expanded="true" />
-            <element signature="e#539#561#0" expanded="true" />
-          </folding>
+        <state line="5" column="0" selection-start="189" selection-end="189" vertical-scroll-proportion="0.0" vertical-offset="95" max-vertical-offset="494">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/TS/TalkBundle/Resources/views/First/getUtenti.html.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="29" selection-start="742" selection-end="742" vertical-scroll-proportion="1.1078718" vertical-offset="114" max-vertical-offset="1615">
+        <state line="26" column="29" selection-start="742" selection-end="742" vertical-scroll-proportion="0.0" vertical-offset="494" max-vertical-offset="1615">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TS/TalkBundle/Controller/FirstController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="84" column="61" selection-start="2398" selection-end="2398" vertical-scroll-proportion="0.45244956" vertical-offset="845" max-vertical-offset="3040">
+          <folding>
+            <element signature="e#1560#1574#0" expanded="true" />
+            <element signature="e#2173#2194#1" expanded="true" />
+            <element signature="e#2788#2809#1" expanded="true" />
+            <element signature="e#3999#4020#1" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

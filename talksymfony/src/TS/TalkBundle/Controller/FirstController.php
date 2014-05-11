@@ -81,6 +81,8 @@ class FirstController extends Controller
 
 	/**
 	 * Lettura da database
+	 * Per le Chiamate Ajax abbiamo usato quesot Bundle
+	 * https://github.com/FriendsOfSymfony/FOSJsRoutingBundle
 	 *
 	 * @Route("/utenti_ajax", name="utenti_ajax", options={"expose"=true})
 	 * @Template("@TSTalk/First/more_users.html.twig")
