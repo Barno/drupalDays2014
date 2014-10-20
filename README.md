@@ -22,7 +22,7 @@ Then
 ```bash
 $ cd drupalDays2014/talksymfony
 $ curl -sS https://getcomposer.org/installer | php
-$ php composer.phar update
+$ composer install
 $ php app/console doctrine:database:create
 $ php app/console doctrine:schema:update --force
 
